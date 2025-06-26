@@ -2,11 +2,13 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
-
 ## Demo Video
 
+Here is the link for the loom demo video:
 
+https://www.loom.com/share/14a51ab8503e4d4bad7747e2fa201d53?sid=e2ad44ec-108b-4930-9724-22aaed4c552d
+
+## Get started
 1. Install dependencies
 
    ```bash
